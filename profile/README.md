@@ -11,10 +11,10 @@
 </p>
 
 <h2>:wave: Introduction</h2>
-<p>CodersHQ was built to enable and support :muscle: coders :technologist:, who work as strategic enablers to the UAE digital economy :united_arab_emirates::coin:. The CodersHQ platform was built with passion :yellow_heart:; by the community and for the community :busts_in_silhouette:, to provide coders with the means to be part of something bigger, and to contribute to the local coding community and coding communities all over the world :earth_asia:.</p>
+<p>CodersHQ was built to enable and support coders, who work as strategic enablers to the UAE digital economy. The CodersHQ platform was built with passion; by the community and for the community, to provide coders with the means to be part of something bigger, and to contribute to the local coding community and coding communities all over the world.</p>
 
 <h2>:technologist: CodersHQ</h2>
-<p>CodersHQ manifests itself in 2 ways: <b>CodersHQ Space :house:</b> and <b>CodersHQ Platform/Community :speech_balloon:</b>.</p>
+<p>CodersHQ manifests itself in 2 ways: <b>CodersHQ Space</b> and <b>CodersHQ Platform/Community</b>.</p>
 
 <h3>:house: CodersHQ Space</h3>
 <p>The CodersHQ Space is divided into 7 sections:</p>

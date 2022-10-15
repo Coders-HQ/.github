@@ -49,9 +49,6 @@
   <li><ins>hq(assessment)</ins></li>
   <li><ins>hq(ambassador)</ins></li>
   <li><ins>hq(conferences)</ins></li>
-  <ul>
-    <li><a href="https://www.eventbrite.com/e/global-devslam-2022-tickets-327872123347?aff=ebdssbdestsearch/" target="_blank">Gitex Global</a></li>
-  </ul>
   <li><ins>hq(learn)</ins></li>
   <ul>
     <li><a href="https://www.eventbrite.com/o/codershq-38860773473/" target="_blank">CodersHQ Eventbrite Page</a></li>
@@ -59,9 +56,6 @@
   </ul>
   <li><ins>hq(meetups)</ins></li>
   <li><ins>hq(hackathons)</ins></li>
-  <ul>
-    <li><a href="https://www.eventbrite.com/e/un-big-data-hackathon-tickets-416523742727?aff=ebdsoporgprofile/" target="_blank">UN Big Data Hackathon</a></li>
-  </ul>
   <li><ins>hq(challenges)</ins></li>
   <li><ins>hq(internship)</ins></li>
   <li><ins>hq(021)</ins></li>

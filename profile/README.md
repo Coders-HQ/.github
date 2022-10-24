@@ -11,7 +11,23 @@
 </p>
 
 <h2>:wave: Introduction</h2>
-<p>CodersHQ was built to enable and support coders, who work as strategic enablers to the UAE digital economy. The CodersHQ platform was built with passion; by the community and for the community, to provide coders with the means to be part of something bigger, and to contribute to the local coding community and coding communities all over the world.</p>
+<p>CodersHQ was built to enable and support coders, who work as strategic enablers to the UAE digital economy. The project comes under the directives of H.H Sheikh Mohammed bin Rashid Al Maktoum, Vice President, Prime Minister and Ruler of Dubai, with an aim to establish advanced coding communities as a major driving factor for the fast-growing digital economy. 
+
+The CodersHQ platform was built with passion; by the community and for the community, to provide coders with the means to be part of something bigger, and to contribute to the local coding community and coding communities globally. It was launched in a virtual ceremony organised by the National Programme for Coders, during which participants reviewed the key initiatives and programmes that CodersHQ aims to launch in the future. The participats of the ceremony include H.E Omar bin Sultan Al Olama, Minister of State for Artificial Intelligence, Digital Economy, and Remote Working Applications, as well as partner representatives.
+
+H.E mentioned that the project embodies the UAE’s vision to prepare a new generation of coders, capable of finding innovative solutions to future challenges, exploring new opportunities to build a competitive knowledge-based economy, and creating a comprehensive development process based on investment in skills and talents to build their future capabilities. Furthermore, it provides an incubating and stimulating environment for skilled coders, building an enabling ecosystem to help them innovate technical solutions to address challenges that we, as a society, face in the world today.
+
+As one of the projects and initiatives of the National Programme for Coders, CodersHQ aims to consolidate the position of the UAE as a global hub for coders and an incubating ecosystem for projects and innovative ideas for building a better future. It features advanced technological infrastructure to facilitate coders’ work and includes an events space, a supercomputer, and several workspaces. We plan to inaugurate six new Coders’ HQs all around the UAE to facilitate coders in their mission to change the world.
+
+CodersHQ focuses on 3 main objectives:
+<ol>
+ <li>Assessing and developing the skills of coders in the UAE.</li>
+ <li>Enabling continuous communication among coders in the UAE and around the world.</li>
+ <li>Providing coders with the best opportunities to help them ideate, create and innovate.</li>
+</ol>
+
+
+We also plan on organizing training programs for Emiratis to facilitate their participation in the various coding fields, while providing them with the best global knowledge to hone their skills. Government, Semi-Government, Private and Academic Entities will all be helping us out to reach our goal of spreading the coding message. These include Abu Dhabi University, Majid Al Futtaim Holding, Microsoft Middle East and Africa, IBM, Presales MERAT, Meta, Rabdan Academy, the American University in Dubai, DP World, ADNOC, VMware, and more.</p>
 
 <h2>:technologist: CodersHQ</h2>
 <p>CodersHQ manifests itself in 2 ways: <b>CodersHQ Space</b> and <b>CodersHQ Platform/Community</b>.</p>

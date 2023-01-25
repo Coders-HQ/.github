@@ -1,9 +1,9 @@
 <p align="center">
  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/92259277/191530645-60d8b36b-5f1c-4c03-98e1-d48103db4e49.png">
-  <img width="500" src="https://user-images.githubusercontent.com/92259277/190894050-ba6b293d-c3b0-4679-86aa-61622a4dafde.png"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/22400032/214483533-dcfd336f-615c-48ab-987e-7041994230cb.png">
+  <img width="500" src="https://user-images.githubusercontent.com/22400032/214483533-dcfd336f-615c-48ab-987e-7041994230cb.png"/>
  </picture>
- <h1 align="center">CodersHQ</h1>
+
 </p>
 
 <p align="center">
